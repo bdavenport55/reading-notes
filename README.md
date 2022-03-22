@@ -15,8 +15,8 @@ Here are a few ways I remind myself to stay in a growth mindest:
 * Criticism is a way of seeing my products and results through the eyes of others.  I will not catch everything that needs to be caugth in order to perfect what I produce, and thus criticism helps me to see what I cannot see.
 
 ## Table of Contents
-* ### [Read 01 - Learning Markdown](Class_01.md)
-* ### [Read 02 - The Coder's Computer](Class_02.md)
-* ### [Read 03 - ](Class_03.md)
+* ### Class 01 - [Learning Markdown](Class_01.md)
+* ### Class 02 - [The Coder's Computer](Class_02.md)
+* ### Class 03 - [Revision and the Cloud](Class_03.md)
 
 
