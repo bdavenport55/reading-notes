@@ -12,7 +12,7 @@ Design process for planning the layout of a website, app, or product.  Emphasis 
 
 ### Wireframing examples
 
-!(https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/versions/samuel-student-wireframe---x----972-715x---.png)
+![Wireframe example](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 *From (https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)*
 
 ## Mozilla HTML Basics
@@ -24,7 +24,7 @@ HTML: HyperText Markup Language
 Says what goes where on a page
 <br>
 
-!(https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+![HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 *From (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)*
 <br>
 
