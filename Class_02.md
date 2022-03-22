@@ -7,3 +7,6 @@ A text editor should have features such as
 * syntax highlighting
 * ability to change themes
 * a robust selection of extensions
+
+
+##### [Back to Main](README.md)
