@@ -14,33 +14,9 @@ Here are a few ways I remind myself to stay in a growth mindest:
 * Effort is not fruitless, yet it is necessary.  The pains of today will produce the results of tomorrow.
 * Criticism is a way of seeing my products and results through the eyes of others.  I will not catch everything that needs to be caugth in order to perfect what I produce, and thus criticism helps me to see what I cannot see.
 
-## Read 01 Learning Markdown
-
-### Markdown syntax
-
-Markdown is used in Github to help add style to pages, much like CSS adds style to HTML webpage.  Markdown, however, much simpler than CSS and HTML.  In Github pages, Github is doing a lot of the 'heavy lifting' that would have to be done with CSS.  Due to this fact, markdown does have a limitation of not allowing for as much specifity and detail as CSS does.
-
-### Here are some helpful links for help with markdown
-
-#### Read
-
-* [Markdownguide.org](https://www.markdownguide.org/basic-syntax/)
-* [GitHub Docs Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
-
-#### Watch
-
-* [GitHub Pages](https://pages.github.com/)
-
-## Read 02 The Coder's Computer
-
-### Choosing a Text Editor
-First, what is a text editor? A text editor is a tool on a computer where I user can, you guessed it, edit text.  More specifically, a user can write text that will later be used as code in software. <br>
-A text editor should have features such as 
-* code completion
-* syntax highlighting
-* ability to change themes
-* a robust selection of extensions
-
-## Read 03
+## Table of Contents
+* ### [Read 01 - Learning Markdown](Class_01.md)
+* ### [Read 02 - The Coder's Computer](Class_02.md)
+* ### [Read 03 - ](Class_03.md)
 
 
