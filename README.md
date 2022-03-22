@@ -10,5 +10,6 @@
 * ### Class 01 - [Learning Markdown](Class_01.md)
 * ### Class 02 - [The Coder's Computer](Class_02.md)
 * ### Class 03 - [Revision and the Cloud](Class_03.md)
+* ### Class 04 - [Structure web pages with HTML](Class_04.md)
 
 
