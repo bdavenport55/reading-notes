@@ -2,7 +2,7 @@
 <br>
 ## My name is Brady Davenport, and this is my learning journal for my journey through the Code Fellows curriculum.
 <br>
-## My Github page can be found [here](https://github.com/bdavenport55).
+## My Github page can be found [here](https://github.com/bradydavenport).
 <br>
 
 ## Table of Contents
