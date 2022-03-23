@@ -5,6 +5,7 @@ This exercise has taught me that, like code itself, the text editor and terminal
 ## Read 03
 
 ### What is Git?
+
 Git is a "Distributed Version Contol System", which is a way for dispersed users to collaborate on one piece of work.  For example, if persons A, B, and C are working on the same project from different terminals, they all have access to the most recent version of the project, can see the changes that have been made to it, and can make changes themselves, all of which are accessible by the other users.
 The main points of it are:
 
