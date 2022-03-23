@@ -25,6 +25,8 @@ Design process for planning the layout of a website, app, or product.  Emphasis 
 
 HTML: HyperText Markup Language - Says what goes where on a page
 
+House analogy: the walls, floor plan, rooms (kitchen, bathroom, etc), and the rooms' contents (stove in kitchen, bed in bedroom, toilet in bathroom, etc).
+
 <br>
 
 Provides the **structure** of a webpage
@@ -71,6 +73,9 @@ In HTML, semantics are quite a bit more important. Some of the benefits of writi
 * Semantic naming mirrors proper custom element/component naming  
     *From: (https://developer.mozilla.org/en-US/docs/Glossary/Semantics)*
 
+Semantic - describes what is in the box <br>
+Non-semantic - unlabeled box filled with contents
+
 HTML semantics tags include:
 
 * `<article>`
@@ -87,5 +92,6 @@ HTML semantics tags include:
 * `<strong>`
 * `<summary>`
 * `<time>`
+* `<title>`
 
 ### [Back to Main](README.md)
