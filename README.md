@@ -17,14 +17,14 @@
 
 * ### Class 04 - [Structure web pages with HTML](Class_04.md)
 
-* ### Class_05 - [Design web pages with CSS](Class_05.md)
+* ### Class 05 - [Design web pages with CSS](Class_05.md)
 
-* ### Class_06 - [Activate web pages with JavaScript](Class_06.md)
+* ### Class 06 - [Activate web pages with JavaScript](Class_06.md)
 
-* ### Class_07 - [Programming with JavaScript](Class_07.md)
+* ### Class 07 - [Programming with JavaScript](Class_07.md)
 
-* ### Class_08 - [Operators and Loops](Class_08.md)
+* ### Class 08 - [Operators and Loops](Class_08.md)
 
-* ### Class_09 - [Career Coaching](Class_09.md)
+* ### Class 09 - [Career Coaching](Class_09.md)
 
 
