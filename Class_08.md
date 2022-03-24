@@ -2,7 +2,8 @@
 
 ## List of Operators 
 
-* Assignment Operators
+* __Assignment Operators__
+
 | Name | Shorthand operator | Meaning |
 |------|--------------------|---------|
 |Assignment	| x = f() | x = f() |
@@ -21,5 +22,7 @@
 |Logical AND assignment|	x &&= f()|	x && (x = f())|
 |Logical OR assignment|	x \|\|= f()|	x \|\| (x = f())|
 |Logical nullish assignment|	x ??= f()|	x ?? (x = f())|
+
+
 
 ### [Back to Main](README.md)
