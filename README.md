@@ -27,6 +27,12 @@
 
 * ### Class 09 - [Career Coaching](Class_09.md)
 
+<<<<<<< HEAD
 * ### [Keyboard Shortcuts](Keyboard_Shortcuts.md)
 
 abcd
+=======
+* ### [Keyboard Shortcuts](Keyboard_Shortcuts.md) 
+
+1234
+>>>>>>> f094d13ab787a44067c8b4f14d221e257f307d8c
