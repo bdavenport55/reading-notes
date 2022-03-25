@@ -2,7 +2,7 @@
 
 ## Operators
 
-### List of Operators 
+### List of Operators
 
 <br>
 
@@ -12,29 +12,27 @@
 
 * [__Arithmetic Operators__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#arithmetic_operators)
 
-* [__ __]()
+* [__Bitwise Operators__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators)
 
-* [__ __]()
+* [__Logical Operators__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#logical_operators)
 
-* [__ __]()
+* [__String Operators__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#string_operators)
 
-* [__ __]()
+* [__Conditional (ternary) Operator__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#conditional_ternary_operator)
 
-* [__ __]()
+* [__Comma Operator__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comma_operator)
 
-* [__ __]()
+* [__Unary Operator__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#unary_operators)
 
-
-
-
-
+* [__Relational Operators__](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#relational_operators)
 
 ## Loops
 
-### **For-loop**:
+### __For-loop__:
 
  does *something* to each thing in a list, does *something* 10 times, 12 times, 34566 times, etc.
-*  Example: write name 10 times
+
+* Example: write name 10 times
 
 ```javascript
 
@@ -43,6 +41,7 @@ for (let i = 0; i = 1; i++) {
 }
 
 ```
+
 `for` starts the loop
 
 `(let i = 0;` is the starting point of the loop
@@ -51,8 +50,8 @@ for (let i = 0; i = 1; i++) {
 
 `i++)` describes the interval the loop will increase each iteration (go up by 1, go up by 2, etc.)
 
-### **While-loop**: does something as long as some condition is true
-* Example: while there are forks still in the dishwasher, put them in the silverware drawer
+### __While-loop__: does something as long as some condition is true
 
+* Example: while there are forks still in the dishwasher, put them in the silverware drawer
 
 ### [Back to Main](README.md)
