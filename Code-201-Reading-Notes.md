@@ -1,4 +1,4 @@
-* #### Class 01 - [Introductory HTML and JavaScript](Class-01.md)
+* #### Class 01 - [Introductory HTML and JavaScript](201/Class-01.md)
 
 * #### Class 02 - []()
 
