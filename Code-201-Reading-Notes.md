@@ -1,4 +1,4 @@
-* #### Class 01 - [Introductory HTML and JavaScript](/home/bdavenport/projects/reading-notes/201/Class_01.md)
+* #### Class 01 - [Introductory HTML and JavaScript](Class-01.md)
 
 * #### Class 02 - []()
 
