@@ -12,6 +12,6 @@
 
 ## Table of Contents
 
-### [Code 102 Reading Notes](Code-102-Reading-Notes.md)
+### [Code 102 Reading Notes](/102/102-TOC.md)
 
-### [Code 201 Reading Notes](201.md)
+### [Code 201 Reading Notes](/201/201-TOC.md)
