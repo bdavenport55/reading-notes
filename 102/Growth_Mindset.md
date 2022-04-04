@@ -9,4 +9,4 @@ Here are a few ways I remind myself to stay in a growth mindest:
 * Effort is not fruitless, yet it is necessary.  The pains of today will produce the results of tomorrow.
 * Criticism is a way of seeing my products and results through the eyes of others.  I will not catch everything that needs to be caugth in order to perfect what I produce, and thus criticism helps me to see what I cannot see.
 
-##### [Back to Main](README.md)
+##### [Back](/102/102-TOC.md)
