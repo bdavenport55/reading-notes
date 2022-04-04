@@ -46,4 +46,4 @@ A - What is script and how do I create one? <br>
 B - How do computers fit in with the world around them? <br>
 C - How do I write a script for a web page?
 
-[Back](/home/bdavenport/projects/reading-notes/Code-201-Reading-Notes.md)
+[Back](/Code-201-Reading-Notes.md)
