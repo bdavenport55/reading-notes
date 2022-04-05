@@ -79,11 +79,17 @@ In the above case, `p` is the selector and everything between the curly braces i
 
 * Expressions evaluate, with the use of operators, into a single value
 
+* JS is 'loosely-typed', it does not require explicit specification of variables and objects
+
+* JS is 'dynamic', meaning data types of variables can be changed after they are declared
+
  ```javascript
  let a = 'hello';
  let b = ' world';
  console.log(a + b); // ---> 'hello world'
  ``` 
+
+
 ### Decisions and Loops
 
 * Conditional statements allow code to make decisions about what to do next
