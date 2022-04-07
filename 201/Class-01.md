@@ -2,7 +2,7 @@
 
 ## **HTML**
 
-### HTML Structure
+### HTML Structure <sup>1</sup>
 
 Describes the structure of pages - where things go
 
@@ -45,5 +45,13 @@ Escape characters: some characters are reserved for the function of HTML, such a
 A - What is script and how do I create one? <br>
 B - How do computers fit in with the world around them? <br>
 C - How do I write a script for a web page?
+
+#### Footnotes
+
+<sup>1</sup> Duckett, J. (2011). "HTML & CSS: design and build websites". Chapter 4. Wiley.
+
+<sup>2</sup> Duckett, J. (2011). "HTML & CSS: design and build websites". Chapter 15. Wiley.
+
+<sup>3</sup> Duckett, J. (2011). "JavaScript & JQuery: interactive front-end web development". Chapter 3. Wiley.
 
 [Back](/reading-notes/201/201-TOC.html)
