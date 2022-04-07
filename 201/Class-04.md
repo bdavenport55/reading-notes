@@ -42,6 +42,16 @@ CSS has **positioning schemes** that allow for control of page layout: normal fl
 
 Group of statements that allow for performing of specific task
 
+* stored in a structure that keep the from running until 'called' or 'invoked'
+* keeps code DRY (don't repeat yourself)
+* reusable
+* prevent bugs, helps find bugs
+
+#### 2 step process
+
+* define/declare
+* run/invoke
+
 ```javascript
 function (paramaters) {
   statements
