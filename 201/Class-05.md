@@ -50,6 +50,10 @@ images created for the web should be saved at **72ppi**
 * CSS3 has RGBA - extra value to indicate opacity
 * CSS3 also allows specific HSL values, also with HSLA opacity value
 
+![Colors](img/Colors.png)
+
+![Contrast](img/Contrast.png)
+
 ## Chapter 12 Text <sup>3</sup>
 
 * properties to control choice of font, size, weight, style, spacing
@@ -59,7 +63,17 @@ images created for the web should be saved at **72ppi**
 * text can be aligned left, right, center, or justified, or indented
 * pseudo-classes change style of element when a user hovers over or clicks on text, or when a link has been visited
 
+![Typeface](img/Typeface.png)
+
+![weight-style-stretch](img/weight-style-stretch.png)
+
+![units-of-size](img/units-of-size.png)
+
 # [Blog Post](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
+* use JPEG for all images that contain a natural scene or photograph where variation in color and intensity is smooth
+* use PNG for any image that needs transparency or for images with text/objects with sharp contrast edges, like logos
+* use GIF for animations
 
 ### Footnotes
 
