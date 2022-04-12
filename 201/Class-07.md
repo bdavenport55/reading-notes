@@ -1,5 +1,9 @@
 # From article: [Domain Modeling](#)
 
+* Domain modeling: process of creating a conceptual model in code for a specific problem
+* Object-oriented model: data stored in properties and behaviors encapsulated in methods
+* an effective domain model can verify and validate the understanding of a specific problem among various stakeholders
+
 # HTML
 
 ## Tables <sup>1</sup>
