@@ -235,4 +235,4 @@ Demonstrates personal accountability for quality and timeliness of deliverables.
 
 [^1] [Code Fellows](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
 
-### [Back](/102/102-TOC.md)
+### [Back](reading-notes/102/102-TOC.html)
