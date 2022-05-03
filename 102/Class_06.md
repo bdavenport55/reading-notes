@@ -34,4 +34,4 @@ computers started as basic calculators
 Binary number system
 
 
-### [Back](reading-notes/102/102-TOC.html)
+### [Back](/reading-notes/102/102-TOC.html)

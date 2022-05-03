@@ -9,4 +9,4 @@ A text editor should have features such as
 * a robust selection of extensions
 
 
-### [Back](reading-notes/102/102-TOC.html)
+### [Back](/reading-notes/102/102-TOC.html)

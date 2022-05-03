@@ -16,4 +16,4 @@ Markdown is used in Github to help add style to pages, much like CSS adds style 
 
 * [GitHub Pages](https://pages.github.com/)
 
-### [Back](reading-notes/102/102-TOC.html)
+### [Back](/reading-notes/102/102-TOC.html)
