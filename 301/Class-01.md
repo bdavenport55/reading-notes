@@ -28,10 +28,54 @@
 7. Every component manages its own ______.
     * state, which can be passed down to children.
 
+### Component-Based Architecture<sup>2</sup>
+
+1. What is a "component"?
+
+    A set of well-defined functionality that is modular, portable, replaceable, and reusable, and interacts with other components.  It can be deployed independently.
+
+2. What are the characteristics of a component?
+
+    * Reusable
+    * Replaceable
+    * Not context specific
+    * Extensible - can be extended from existing components to provide new behavior
+    * Encapsulated - does not expose details of internal processes, variables, or state
+    * Independent
+
+3. What are the advantages of using component-based architecture?
+
+    * Ease of deployment - no impact from replacing with newer versions
+    * Reduced cost
+    * Ease of development - no impact on other parts of systems
+    * Reusable
+    * Modification of technical complexity - component containers, services
+    * Reliability
+    * System maintenance and evolution
+    * Independent
+
+### What is Props and How to Use it in React<sup>3</sup>
+
+1. What is "props" short for?
+
+    Properties
+
+2. How are props used in React?
+
+    Props are used to pass data from one component to another in a unidirectional flow
+
+3. What is the flow of props?
+
+    1. An attribute and its value are defined
+    2. The attribute and value are passed to child component(s)
+    3. Props data is rendered
 
 ### Footnotes
 
 <sup>1</sup>https://www.youtube.com/watch?v=FRjlF74_EZk
 
+<sup>2</sup>https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+
+<sup>3</sup>https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child
 
 [Back](/reading-notes/301/301-TOC.html)
