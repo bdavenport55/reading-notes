@@ -24,22 +24,53 @@
 ## The Spread Operator<sup>2</sup>
 
 1. What is the spread operator?
+  Javascript syntax used to expand an iterable object into the list of arguments
 
 2. List 4 things that the spread operator can do.
 
+* Copying an array
+* Concatenating or combining arrays
+* Adding to state in React
+* Using an array as arguments
+
 3. Give an example of using the spread operator to combine two arrays.
+
+```js  
+const myArray = [`🤪`,`🐻`,`🎌`]
+const yourArray = [`🙂`,`🤗`,`🤩`]
+const ourArray = [...myArray,...yourArray]
+console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
+```
 
 4. Give an example of using the spread operator to add a new item to an array.
 
+```js  
+const fewFruit = ['🍏','🍊','🍌']
+const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
+console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
+```
+
 5. Give an example of using the spread operator to combine two objects into one.
+
+```js  
+const objectOne = {hello: "🤪"}
+const objectTwo = {world: "🐻"}
+const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
+console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+objectFour.laugh() // 😂😂😂😂😂
+```
 
 ## How to Pass Functions Between Components<sup>3</sup>
 
 1. In the video, what is the first step that the developer does to pass functions between components?
+  Writes the increment function
 
 2. In your own words, what does the `increment` function do?
+  Increments, or adds, a count by a specified amount for the argument (person) passed into it.
 
 3. How can you pass a method from a parent component into a child component?
+  
 
 4. How does the child component invoke a method that was passed to it from a parent component?
 
