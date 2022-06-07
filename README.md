@@ -12,10 +12,10 @@
 
 ## Table of Contents
 
-### [Code 102 Reading Notes](/102/102-TOC.md)
+### [Code 102 - Intro to Software Development](/102/102-TOC.md)
 
-### [Code 201 Reading Notes](/201/201-TOC.md)
+### [Code 201 - Foundations of Software Development](/201/201-TOC.md)
 
-### [Code 301 Reading Notes](/301/301-TOC.md)
+### [Code 301 - Intermediate Software Development](/301/301-TOC.md)
 
-### [Code 401 Reading Notes](/401/401-TOC.md)
+### [Code 401 - Advanced Software Development](/401/401-TOC.md)
