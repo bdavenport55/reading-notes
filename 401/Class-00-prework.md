@@ -33,6 +33,51 @@ I have a restless brain, and I hate seeing inefficiency being tolerated and comp
 * Say out loud the steps/processes leading up to the sticking point, to ensure I truly know how the code is working up to that point and what the next logical step would be
 * Take a break, walk away from it completely or work on something else for a little bit
 
+## Practice in the Terminal<sup>7</sup>
+
+### The Command Line - What is it, how does it work and how do I get to one.
+
+A command line is a text-based interface to the system where commands can be typed in to execute functions.  On a Mac, you can open a terminal by finding it under Applications -> Utilities.  On Windows, you will need to install an SSH client.
+
+### Basic Navigation - An introduction to the Linux directory system and how to get around it.
+
+`pwd` - Print Working Directory - a command that will print the current working directory
+
+`ls` - prints content of current working directory
+
+`cd` - move to a different directory
+
+Relative path - a file or directory location relative to where we currently are in the file system.
+
+Absolute path - A file or directory location in relation to the root of the file system.
+
+### More About Files - Find out some interesting characteristics of files and directories in a Linux environment.
+
+* Everthing is a file - files, folders, your keyboard, your monitor
+* Linux looks in files to determine what they are - ignores file extensions
+* Linux is case-sensitive
+* Spaces in file names can be used - either wrap the whole name in quotes or use escape characters
+* Use a full-stop (period) at the beginning of file names for hidden files
+
+### Manual Pages - Learn how to make the most of the Linux commands you are learning.
+
+* typing `man` followed by the command you want to look up will print a 'manual', or info synopsis, of the command
+
+* typing `man -k` will do a keyword search in the manuals
+
+* long hand commands (`--`), short hand commands (`-`) - can invoke several options at once
+
+### File Manipulation - How to make, remove, rename, copy and move files and directories.
+
+`mkdir` - make a directory(folder)
+`rmdir` - remove a directory
+`touch` - create a blank file
+`cp<source><destination>` - copy a file
+`mv<source><destination>` - move a file
+`mv<source><same_directory>` - results in a renamed file
+`rm<file>` - remove a file
+`rm -r -i` - remove recursively and interactively
+
 ### Footnotes
 
 <sup>1</sup>https://sqlbolt.com/
@@ -41,3 +86,4 @@ I have a restless brain, and I hate seeing inefficiency being tolerated and comp
 <sup>4</sup>https://simpleprogrammer.com/solving-problems-breaking-it-down/
 <sup>5</sup>https://www.mindtools.com/pages/article/newTMC_5W.htm
 <sup>6</sup>https://www.youtube.com/watch?v=9vJRopau0g0
+<sup>7</sup>https://ryanstutorials.net/linuxtutorial/
