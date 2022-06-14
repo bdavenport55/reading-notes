@@ -70,20 +70,20 @@ GitHub is a central place where developers can upload their written code, and it
 
 ## Bookmarks
 
-[node.js docs](https://nodejs.org/en/docs/)
-[npm docs](https://docs.npmjs.com/)
-[express docs](https://expressjs.com/en/4x/api.html)
-[http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
-[supertest](https://github.com/visionmedia/supertest)
+* [node.js docs](https://nodejs.org/en/docs/)
+* [npm docs](https://docs.npmjs.com/)
+* [express docs](https://expressjs.com/en/4x/api.html)
+* [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
+* [supertest](https://github.com/visionmedia/supertest)
 
 ### Footnotes
 
-<sup>1</sup>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+<sup>1</sup>[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
-<sup>2</sup>https://docs.npmjs.com/about-npm
+<sup>2</sup>[https://docs.npmjs.com/about-npm](https://docs.npmjs.com/about-npm)
 
-<sup>3</sup>https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)
+<sup>3</sup>[https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
-<sup>4</sup>https://www.youtube.com/watch?v=xSv_m3KhUO8
+<sup>4</sup>[https://www.youtube.com/watch?v=xSv_m3KhUO8](https://www.youtube.com/watch?v=xSv_m3KhUO8)
 
 [Back](/reading-notes/401/401-TOC.html)
