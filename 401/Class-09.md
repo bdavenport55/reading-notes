@@ -1,15 +1,17 @@
 # Read 09
 
-##
+## Authorization/Authentication
 
-### <sup>1</sup>
+### Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
 
-### <sup>2</sup>
+1. A notes app
 
-### Footnotes
+2. A glossary
 
-<sup>1</sup>
+### Bookmarks
 
-<sup>2</sup>
+[https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/)
+
+[https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/)
 
 [Back](/reading-notes/401/401-TOC.html)
