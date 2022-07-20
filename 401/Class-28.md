@@ -1,39 +1,29 @@
-# Read 
+# Read 28
 
-## 
+## Component Lifecycle/ `useEffect()` Hook
 
-### <sup>1</sup>
+### Effects Hook<sup>1</sup>
 
-#### 1. 
+#### 1. What purpose does useEffect serve in a function component compared to its counterpart(s) in class components?
 
-#### 2. 
+Data fetching, setting up a subscription, and manually changing the DOM. It behaves in the same way `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount` all do, combined.
 
-#### 3. 
+#### 2. When using the `useEffect()` Hook:
 
-### <sup>2</sup>
+  #### 1. What does `useEffect()` do?
 
-#### 1. 
+  Tells React that a component needs to do something after render.
 
-#### 2. 
+  #### 2. Why is `useEffect()` called inside a component?
 
-#### 3. 
+  It lets us access state variables or props right from the effect
 
-### <sup>3</sup>
+#### 3. Explain the importance of properly implementing effects with Cleanup
 
-#### 1.
-
-#### 2. 
-
-#### 3. 
-
-### Bookmarks
+Its so we don't introduce a 'memory leak', we want to avoid unwanted effects
 
 ### Footnotes
 
-<sup>1</sup>
-
-<sup>2</sup>
-
-<sup>3</sup>
+<sup>1</sup>https://reactjs.org/docs/hooks-effect.html
 
 [Back](/reading-notes/401/401-TOC.html)
